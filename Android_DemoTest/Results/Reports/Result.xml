@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<test_suite>
+    <duration>0 Hrs 1 Mins 45 secs.</duration>
+    <end_time>Jul-20-2016 12:17:24 PM</end_time>
+    <id>MyTestingSuite</id>
+    <start_time>Jul-20-2016 12:15:38 PM</start_time>
+    <testcases>
+        <testcase id="TC-1">
+            <description>TC-1</description>
+            <end_time>Jul-20-2016 12:17:22 PM</end_time>
+            <start_time>Jul-20-2016 12:15:56 PM</start_time>
+            <test_steps>
+                <test_step id="2">
+                    <actual_result>Home page displayed</actual_result>
+                    <description>Enter credentials and click on login</description>
+                    <expected_result>Home page should be displayed</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Jul-20-2016 12:16:21 PM</time_stamp>
+                </test_step>
+                <test_step id="3">
+                    <actual_result>Accounts page displayed</actual_result>
+                    <description>Click on accounts link on home page</description>
+                    <expected_result>Accounts page should be displayed</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Jul-20-2016 12:16:33 PM</time_stamp>
+                </test_step>
+                <test_step id="4">
+                    <actual_result>Create account page displayed</actual_result>
+                    <description>Click on create account link</description>
+                    <expected_result>Create account page should be displayed</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Jul-20-2016 12:16:43 PM</time_stamp>
+                </test_step>
+                <test_step id="5">
+                    <actual_result>account information is saved. User details page displayed.</actual_result>
+                    <description>Enter account information and save</description>
+                    <expected_result>account information should be saved. User details page should be displayed.</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Jul-20-2016 12:17:09 PM</time_stamp>
+                </test_step>
+                <test_step id="6">
+                    <actual_result>Accounts list page is displayed</actual_result>
+                    <description>Click on View accounts page</description>
+                    <expected_result>Accounts list page should be displayed</expected_result>
+                    <screenshot_path></screenshot_path>
+                    <status>Pass</status>
+                    <time_stamp>Jul-20-2016 12:17:12 PM</time_stamp>
+                </test_step>
+            </test_steps>
+        </testcase>
+    </testcases>
+</test_suite>

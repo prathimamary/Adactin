@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/java-client-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/EIN0025/Desktop/acme-android-appium-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/EIN0025/Desktop/acme-android-appium-1.0-SNAPSHOT-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/eclipse/plugins/cn.ieclipse.adt.ext_4.0.1/libs/aorm-core-1.0.jar" sourcepath="D:/eclipse/plugins/cn.ieclipse.adt.ext_4.0.1/libs/aorm-core-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/EIN0025/Downloads/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

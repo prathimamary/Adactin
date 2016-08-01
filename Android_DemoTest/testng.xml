@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestingSuite">
+  <test name="TC-1">
+  	<classes>
+  		<class name="com.enhops.scripts.AdactinLoginTest">
+  			<methods>
+  				<include name="Adactin_User_Login"></include>
+  			</methods>
+  		</class>
+  	</classes>
+  </test> 
+  
+</suite> <!-- Suite -->

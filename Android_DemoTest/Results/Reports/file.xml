@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<test_suite>
+    <end_time>2015-11-23T11:51:26.952+05:30</end_time>
+    <id>MyTestingSuite</id>
+    <start_time>2015-11-23T11:51:23.811+05:30</start_time>
+    <testcases>
+        <testcase id="MyTesting123">
+            <description>Description</description>
+            <end_time>2015-11-23T11:51:25.838+05:30</end_time>
+            <start_time>2015-11-23T11:51:23.823+05:30</start_time>
+            <test_steps>
+                <test_step id="1">
+                    <actual_result>actual_result</actual_result>
+                    <description>description</description>
+                    <expected_result>expected_result</expected_result>
+                    <screenshot_path>ScreenShotPath</screenshot_path>
+                    <status>status</status>
+                    <time_stamp>2015-11-23T11:51:24.829+05:30</time_stamp>
+                </test_step>
+                <test_step id="2">
+                    <actual_result>actual_result</actual_result>
+                    <description>description</description>
+                    <expected_result>expected_result</expected_result>
+                    <screenshot_path>ScreenShotPath</screenshot_path>
+                    <status>status</status>
+                    <time_stamp>2015-11-23T11:51:25.830+05:30</time_stamp>
+                </test_step>
+            </test_steps>
+        </testcase>
+        <testcase id="MyTesting34">
+            <description>Description</description>
+            <end_time>2015-11-23T11:51:26.923+05:30</end_time>
+            <start_time>2015-11-23T11:51:25.917+05:30</start_time>
+            <test_steps>
+                <test_step id="3">
+                    <actual_result>actual_result</actual_result>
+                    <description>description</description>
+                    <expected_result>expected_result</expected_result>
+                    <screenshot_path>ScreenShotPath</screenshot_path>
+                    <status>status</status>
+                    <time_stamp>2015-11-23T11:51:25.920+05:30</time_stamp>
+                </test_step>
+                <test_step id="4">
+                    <actual_result>actual_result</actual_result>
+                    <description>description</description>
+                    <expected_result>expected_result</expected_result>
+                    <screenshot_path>ScreenShotPath</screenshot_path>
+                    <status>status</status>
+                    <time_stamp>2015-11-23T11:51:26.921+05:30</time_stamp>
+                </test_step>
+            </test_steps>
+        </testcase>
+    </testcases>
+</test_suite>

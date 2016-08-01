@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MyTestingSuite]">
+  <test name="MyTesting123(failed)">
+    <classes>
+      <class name="com.enhops.testscripts.test">
+        <methods>
+          <include name="SuiteInit"/>
+          <include name="testing123"/>
+        </methods>
+      </class> <!-- com.enhops.testscripts.test -->
+    </classes>
+  </test> <!-- MyTesting123(failed) -->
+  <test name="MyTesting34(failed)">
+    <classes>
+      <class name="com.enhops.testscripts.test">
+        <methods>
+          <include name="SuiteInit"/>
+          <include name="testing34"/>
+        </methods>
+      </class> <!-- com.enhops.testscripts.test -->
+    </classes>
+  </test> <!-- MyTesting34(failed) -->
+</suite> <!-- Failed suite [MyTestingSuite] -->

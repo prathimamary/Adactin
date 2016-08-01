@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyTestingSuite" duration-ms="18734" started-at="2016-07-22T10:40:02Z" finished-at="2016-07-22T10:40:21Z">
+    <groups>
+    </groups>
+    <test name="TC-1" duration-ms="18734" started-at="2016-07-22T10:40:02Z" finished-at="2016-07-22T10:40:21Z">
+      <class name="com.enhops.scripts.AdactinLoginTest">
+        <test-method status="PASS" signature="SuiteInit(org.testng.ITestContext)[pri:0, instance:com.enhops.scripts.AdactinLoginTest@51dcfac5]" name="SuiteInit" is-config="true" duration-ms="15580" started-at="2016-07-22T16:09:46Z" finished-at="2016-07-22T16:10:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4bcd6890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteInit -->
+        <test-method status="PASS" signature="Adactin_User_Login()[pri:0, instance:com.enhops.scripts.AdactinLoginTest@51dcfac5]" name="Adactin_User_Login" duration-ms="18722" started-at="2016-07-22T16:10:02Z" finished-at="2016-07-22T16:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adactin_User_Login -->
+        <test-method status="PASS" signature="testInit(org.testng.ITestContext)[pri:0, instance:com.enhops.scripts.AdactinLoginTest@51dcfac5]" name="testInit" is-config="true" duration-ms="0" started-at="2016-07-22T16:10:02Z" finished-at="2016-07-22T16:10:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4bcd6890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInit -->
+        <test-method status="PASS" signature="testCleanup()[pri:0, instance:com.enhops.scripts.AdactinLoginTest@51dcfac5]" name="testCleanup" is-config="true" duration-ms="0" started-at="2016-07-22T16:10:21Z" finished-at="2016-07-22T16:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCleanup -->
+        <test-method status="PASS" signature="SuiteCleanup(org.testng.ITestContext)[pri:0, instance:com.enhops.scripts.AdactinLoginTest@51dcfac5]" name="SuiteCleanup" is-config="true" duration-ms="1390" started-at="2016-07-22T16:10:21Z" finished-at="2016-07-22T16:10:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4bcd6890]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteCleanup -->
+      </class> <!-- com.enhops.scripts.AdactinLoginTest -->
+    </test> <!-- TC-1 -->
+  </suite> <!-- MyTestingSuite -->
+</testng-results>

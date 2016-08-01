@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<!--Application Settings-->
+	<entry key="URL">http://192.168.2.113//SugarCRM</entry>
+	<entry key="username">admin</entry>
+	<entry key="password">enhops@123</entry>
+	<entry key="Browser">ANDROID</entry>
+	<!--Database Settings-->
+	<entry key="DBServer">Ora001</entry>
+	<entry key="DBUserName">root</entry>
+	<entry key="DBPassword">root</entry>
+	<entry key="TestDataSource">excel</entry>
+	<entry key="TestDataFileLocation">./TestData/TestData.xls</entry>	
+</properties>
